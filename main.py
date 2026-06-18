@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
+imprtant database
 import sqlite3
 TOTAL_SEATS = 13
 
